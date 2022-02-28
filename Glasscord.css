@@ -8,7 +8,7 @@
        }
 
 :root{
-	--glasscord-win-blur: transparent !important;
+	--glasscord-win-blur: transparent  !important;
 	--glasscord-macos-vibrancy: fullscreen-ui !important; 
 	--glasscord-linux-blur: true !important;
 	--glasscord-titlebar: default !important;  
